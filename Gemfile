@@ -56,3 +56,4 @@ gem 'omniauth'
 gem 'omniauth-twitter'
 gem 'dotenv-rails'
 gem "haml-rails", "~> 2.0"
+gem "mysql2"
